@@ -33,7 +33,9 @@ html, body {
     width: 50%;
 }
 
-
+.caption text-center {
+	colour: white #ffffff !important;
+}
 .container {
 
 }
@@ -43,4 +45,16 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.jumbotron{
+	margin-top: 25px;
+    text-align: left;
+    background-color: #ffffff !important;
+    opacity: 0.75;
+    text-shadow: 0.25px 0.25px 0.25px #000000;  
+    : 1.0; 
+    font-size: 60px;
+   
+    padding: 25px;
 }
